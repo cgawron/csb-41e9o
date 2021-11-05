@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://cgawron.github.io/csb-41e9o/static/css/main.0e734603.chunk.css",
+    "main.js": "https://cgawron.github.io/csb-41e9o/static/js/main.5c602a7a.chunk.js",
+    "main.js.map": "https://cgawron.github.io/csb-41e9o/static/js/main.5c602a7a.chunk.js.map",
+    "runtime-main.js": "https://cgawron.github.io/csb-41e9o/static/js/runtime-main.73506776.js",
+    "runtime-main.js.map": "https://cgawron.github.io/csb-41e9o/static/js/runtime-main.73506776.js.map",
+    "static/js/2.8c81e16c.chunk.js": "https://cgawron.github.io/csb-41e9o/static/js/2.8c81e16c.chunk.js",
+    "static/js/2.8c81e16c.chunk.js.map": "https://cgawron.github.io/csb-41e9o/static/js/2.8c81e16c.chunk.js.map",
+    "index.html": "https://cgawron.github.io/csb-41e9o/index.html",
+    "precache-manifest.96c16e0a624575c0c233ec9b880a2566.js": "https://cgawron.github.io/csb-41e9o/precache-manifest.96c16e0a624575c0c233ec9b880a2566.js",
+    "service-worker.js": "https://cgawron.github.io/csb-41e9o/service-worker.js",
+    "static/css/main.0e734603.chunk.css.map": "https://cgawron.github.io/csb-41e9o/static/css/main.0e734603.chunk.css.map",
+    "static/js/2.8c81e16c.chunk.js.LICENSE.txt": "https://cgawron.github.io/csb-41e9o/static/js/2.8c81e16c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://cgawron.github.io/csb-41e9o/static/media/logo.be622899.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73506776.js",
+    "static/js/2.8c81e16c.chunk.js",
+    "static/css/main.0e734603.chunk.css",
+    "static/js/main.5c602a7a.chunk.js"
+  ]
+}
